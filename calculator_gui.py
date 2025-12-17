@@ -105,3 +105,4 @@ button_clear = Button(frame, text='clear',height=4, width=9,font=35, command=cle
 button_clear.grid(row=4, column=0, columnspan=4, sticky="we")  # full width at bottom
 
 window.mainloop()
+
